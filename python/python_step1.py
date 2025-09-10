@@ -1,1 +1,1 @@
-print("nhìn gì")
+print("gà mờ học tin")
